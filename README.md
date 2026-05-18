@@ -23,3 +23,5 @@ The model was trained and fine-tuned using Google Colab to analyze poems, genera
 ## Project Files
 - `.ipynb` notebook for training and experimentation
 - `.py` file for clean Python implementation
+- `Weshah_Poster.pdf` for project poster
+- `Weshah_Demo.pdf` for demo and outputs
